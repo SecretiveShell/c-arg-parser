@@ -1,0 +1,11 @@
+C:\Users\c3022054\source\repos\CommandLineParser\CommandParser\bin\Debug\net8.0\CommandParser.deps.json
+C:\Users\c3022054\source\repos\CommandLineParser\CommandParser\bin\Debug\net8.0\CommandParser.dll
+C:\Users\c3022054\source\repos\CommandLineParser\CommandParser\bin\Debug\net8.0\CommandParser.pdb
+C:\Users\c3022054\source\repos\CommandLineParser\CommandParser\obj\Debug\net8.0\CommandParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c3022054\source\repos\CommandLineParser\CommandParser\obj\Debug\net8.0\CommandParser.AssemblyInfoInputs.cache
+C:\Users\c3022054\source\repos\CommandLineParser\CommandParser\obj\Debug\net8.0\CommandParser.AssemblyInfo.cs
+C:\Users\c3022054\source\repos\CommandLineParser\CommandParser\obj\Debug\net8.0\CommandParser.csproj.CoreCompileInputs.cache
+C:\Users\c3022054\source\repos\CommandLineParser\CommandParser\obj\Debug\net8.0\CommandParser.dll
+C:\Users\c3022054\source\repos\CommandLineParser\CommandParser\obj\Debug\net8.0\refint\CommandParser.dll
+C:\Users\c3022054\source\repos\CommandLineParser\CommandParser\obj\Debug\net8.0\CommandParser.pdb
+C:\Users\c3022054\source\repos\CommandLineParser\CommandParser\obj\Debug\net8.0\ref\CommandParser.dll
